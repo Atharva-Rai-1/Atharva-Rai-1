@@ -1,10 +1,11 @@
-## Hi there 👋
 # 👋 Hi, I'm Atharva Rai
 
 ### 🛠️ Languages & Tools I Use
-![Python](https://shields.io)
-![Java](https://shields.io)
+<img src="https://shields.io" alt="Python" height="28px"/>
+<img src="https://shields.io" alt="Java" height="28px"/>
 
 ### 📬 Connect with Me
-[![Email](https://shields.io)](mailto:atharvarai.1212@gmail.com)
+<a href="mailto:your.email@gmail.com">
+  <img src="https://shields.io" alt="Email" height="28px"/>
+</a>
 
